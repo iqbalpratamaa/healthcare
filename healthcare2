@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Healthcare</title>
+</head>
+
+<body>
+    <nav class="flex justify-between mx-40 mt-12">
+        <div clas="flex item-center">
+            <a href="#" class="bg-blue-400 px-3 py-2 text-white text-xl font-semibold rounded-full">SS</a>
+            <a href="#">Rs Sehat Sejahtera</a>
+        </div>
+        <div class="space-x-8 text-gray-500">
+            <a href="#">Home</a>
+            <a href="#">Find a doctor</a>
+            <a href="#">Apps</a>
+            <a href="#">Testimonials</a>
+            <a href="#">About us</a>
+        </div>
+    </nav>
+    <div class="flex mx-40 mt-10">
+        <div class="w-1/2">
+            <h1 class="text-4xl font-semibold mt-28">Virtual healthcare <br> for you</h1>
+            <h2 class="text-gray-500 my-9">Trafalgar provides prooggresive, and affordabel<br> healthcare, accesible on
+                mobile and onlie<br> for everyone</h2>
+            <a href="#" class="bg-blue-400 px-9 py-3 rounded-full text-white">Consult today</a>
+        </div>
+        <div class="w-1/2">
+            <img src="trafalgar-header illustration 1.png" class="" alt="">
+        </div>
+    </div>
+    <div class="flex mx-40 mt-20 text-center flex-col">
+        <h1 class="text-3xl font-semibold mt-28 flex justify-center">Our service</h1>
+    </div>
+    <div class="flex justify-center mt-10 text-center">
+        <img src="Rectangle 2.png" alt="">
+    </div>
+    <br>
+    <div>
+        <p class="text-lg mt-14 mx-40 flex justify-center shadow-gray-500">We provide to you the best choiches for you.
+            Adjust it to your health needs and make sure your undergo treatment <br> with our highly qualified doctors
+            you can consult with us which type of service is suitable for your health
+        </p>
+    </div>
+
+    <div class="grid-cols-3 gap-7 flex mx-52 mt-10">
+        <a href="" class="rounded-lg shadow-xl shadow-gray-500  w-1/3 h-80">
+            <div>
+                <div class="mx-7 my-5 py-7 space-y-3">
+                    <img src="Frame.png" alt="">
+                    <h1 class="font-semibold text-2xl mt-7 px-6">Search doctor</h1>
+                    <p class="text-base px-6 mt-5 text-gray-500">Choose your doctor from thousands of specialist,
+                        general, and trusted hospitals</p>
+                </div>
+            </div>
+        </a>
+        <a href="" class="rounded-lg shadow-xl shadow-gray-500  w-1/3 h-80">
+            <div>
+                <div class="mx-7 my-5 py-7 space-y-3">
+                    <img src="Frame1.png" alt="">
+                    <h1 class="font-semibold text-2xl">Online pharmacy</h1>
+                    <p class="text-base px-6 mt-5 text-gray-500">Buy your medicines with our mobile application with a
+                        simple delivery system</p>
+                </div>
+            </div>
+        </a>
+        <a href="" class="rounded-lg shadow-xl shadow-gray-500  w-1/3 h-80">
+            <div>
+                <div class="mx-7 my-5 py-7 space-y-3">
+                    <img src="Frame2.png" alt="">
+                    <h1 class="font-semibold text-2xl mt-7 px-6">Consulation</h1>
+                    <p class="text-base px-6 mt-5 text-gray-500">Free consultation with our trusted doctors and get the
+                        best recomendations</p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="grid-cols-3 gap-7 flex mx-52 mt-10">
+        <a href="" class="rounded-lg shadow-xl shadow-gray-500  w-1/3 h-80">
+            <div>
+                <div class="mx-7 my-5 py-7 space-y-3">
+                    <img src="Frame4.png" alt="">
+                    <h1 class="font-semibold text-2xl mt-7 px-6">Details info</h1>
+                    <p class="text-base px-6 mt-5 text-gray-500">Free consultation with our trusted doctors and get the
+                        best recomendations</p>
+                </div>
+            </div>
+        </a>
+        <a href="" class="rounded-lg shadow-xl shadow-gray-500  w-1/3 h-80">
+            <div>
+                <div class="mx-7 my-5 py-7 space-y-3">
+                    <img src="Frame5.png" alt="">
+                    <h1 class="font-semibold text-2xl">Emergency care</h1>
+                    <p class="text-base px-6 mt-5 text-gray-500">You can get 24/7 urgent care for yourself or your
+                        children and your
+                        lovely family</p>
+                </div>
+            </div>
+        </a>
+        <a href="" class="rounded-lg shadow-xl shadow-gray-500  w-1/3 h-80">
+            <div>
+                <img src="Frame6.png" alt="">
+                <h1 class="font-semibold text-2xl mt-7 px-6">Tracking</h1>
+                <p class="text-base px-6 mt-5 text-gray-500">Track and save your medical history and health data</p>
+            </div>
+    </div>
+    </div>
+</body>
+</a>
+<div class="flex justify-center">
+    <a href="#"
+        class="border-2 rounded-full border-blue-400 px-8 py-2 text-blue-400 mt-10 hover:text-white hover:bg-blue-400">lebih
+        banyak</a>
+</div>
+<div class="flex mx-40 mt-48 items-center space-x-36">
+    <div class="w-1/2 mb-20">
+        <img src="/img/Illustration/trafalgar-illustration sec02 11.svg" alt="Leading">
+    </div>
+
+    <div class="w-1/2">
+        <p class="font-bold text-5xl mb-7 leading-normal">Leading healthcare <br>providers</p>
+        <img src="Rectangle 2.png" alt="" class="my-8">
+        <p class="mb-12 text-md text-gray-500">Trafalgar provides progressive, and affordable<br> healthcare, accessible
+            on mobile and online for<br> everyone. To us, it’s not just work. We take pride <br>
+            in the solutions we deliver.</p>
+
+        <div>
+            <a href="#" class="border-2 rounded-full border-blue-400 px-8 py-2 text-blue-400 mt-10 ">Lebih banyak</a>
+        </div>
+    </div>
+</div>
+<div class="flex mx-40 mt-20">
+    <div class="w-1/2">
+        <h1 class="font-bold text-5xl mb-7 leading-normal">Download our <br> mobile apps </h1>
+        <div class="mt-10">
+            <img src="Rectangle 2.png">
+        </div>
+        <h2 class="text-gray-500 my-9">Our dedicated patient engagement app and <br>
+            web portal allow you to access information <br> instantaneously (no tedeous form, long calls, <br>
+            or administrative hassle) and securely</h2>
+        <a href="#"
+            class="border rounded-full border-blue-400 px-8 py-2 text-blue-400 mt-10 hover:text-white hover:bg-blue-400">download</a>
+    </div>
+    <div class="w-1/2 mt-20">
+        <img src="trafalgar-sec03 1.png" alt="">
+    </div>
+</div>
+</div>
+</div>
+
+<div
+    class="bg-white mx-40 px-20 py-10 rounded-xl bg-gradient-to-t from-blue-500 to-cyan-500 text-center items-center mt-56">
+    <div>
+        <p class="text-4xl font-semibold mt-4 text-white">Pendapat Customer tentang kami</p><br>
+    </div>
+
+    <div class="flex justify-center">
+        <hr class="w-14">
+    </div>
+
+    <div class="flex items-center text-md text-white mt-20">
+        <div class=" w-80">
+            <img src="Mask Group.png" alt="Photo">
+        </div>
+        <div class="text-left ml-8">
+            <p class="text-xl font-bold">Edward Newgate</p>
+            <p class="text-md font-semibold">Founder Polar Care</p>
+        </div>
+        <div class=" text-left ml-28 text-md font-semibold tracking-wider">
+            <p>“Our dedicated patient engagement app and <br>
+                web portal allow you to access information<br> instantaneously (no tedeous form, long calls,<br>
+                or administrative hassle) and securely”</p>
+        </div>
+    </div>
+</div>
+
+<div class="flex justify-center space-x-12 mt-6">
+    <a href="#" class="text-4xl font-extrabold text-blue-400 stroke-blue-400 stroke-2 hover:text-blue-700">←</a>
+    <div>
+        <a href="#" class="text-4xl text-blue-500 hover:text-gray-300">•</a>
+        <a href="#" class="text-4xl text-gray-300 hover:text-blue-500">•</a>
+        <a href="#" class="text-4xl text-gray-300 hover:text-blue-500">•</a>
+        <a href="#" class="text-4xl text-gray-300 hover:text-blue-500">•</a>
+    </div>
+    <a href="#" class="text-4xl font-extrabold text-blue-400 stroke-blue-400 stroke-2 hover:text-blue-700">→</a>
+</div>
+
+
+
+
+</body>
+
+</html>
